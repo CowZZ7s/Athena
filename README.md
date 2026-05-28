@@ -50,19 +50,19 @@ Each phase is handled by a dedicated module with validated inputs, session persi
 pip install -r requirements.txt
 ```
 
-<!-- ADD a requirements.txt to your repo listing any Python dependencies -->
+
 
 ---
 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/project-athena.git
+git clone https://github.com/CowZZ7s/project-athena.git
 cd project-athena
 pip install -r requirements.txt
 ```
 
-<!-- Replace YOUR_USERNAME with your GitHub username once published -->
+
 
 ---
 
