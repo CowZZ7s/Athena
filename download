@@ -1,0 +1,84 @@
+# ═══════════════════════════════════════════════════
+# Athena — .gitignore
+# ═══════════════════════════════════════════════════
+
+# ── Athena Generated Output ─────────────────────────
+# IMPORTANT: These directories contain live operational
+# data (IPs, payloads, session logs). Never commit them.
+reports/
+rc_scripts/
+web_shells/
+logs/
+
+# Specific file types generated at runtime
+*.rc
+*.log
+*.spool
+
+# Session JSON files (contain target IPs and results)
+attack_*.json
+gather_*.json
+chase_*.json
+athena_*.json
+pentest_report_*.html
+pentest_report_*.pdf
+
+# ── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# ── IDE / Editor ─────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Testing ──────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# ── OS ───────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# ── Secrets / Config (add your own below) ────────────
+# config.ini
+# secrets.py
+# .env.local

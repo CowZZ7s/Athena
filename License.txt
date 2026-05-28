@@ -1,0 +1,93 @@
+PROJECT ATHENA — SOURCE AVAILABLE LICENCE
+=========================================
+
+Copyright (c) 2026 [CowZZ7s or PicassoHobby]
+All rights reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PERMITTED USE
+
+   Permission is granted, free of charge, to any person obtaining a copy of
+   this software and associated documentation files (the "Software"), to use,
+   copy, and modify the Software solely for the following purposes:
+
+     a) Personal home lab security research and education
+     b) Authorised penetration testing engagements where the user holds
+        explicit written permission from the system owner
+     c) Capture the Flag (CTF) competitions on sanctioned platforms
+        (e.g. HackTheBox, TryHackMe, VulnHub)
+     d) Academic or institutional cybersecurity coursework
+
+2. CONDITIONS
+
+   Any permitted use of this Software must comply with the following
+   conditions:
+
+     a) This licence notice and copyright statement must be retained in all
+        copies or substantial portions of the Software.
+     b) Any modifications made to the Software must be clearly marked as
+        such and must not misrepresent the original authorship.
+     c) The Software must not be used against any system, network, or device
+        without explicit prior written authorisation from its owner.
+
+3. RESTRICTIONS
+
+   The following uses are explicitly prohibited:
+
+     a) COMMERCIAL USE — The Software may not be sold, sublicensed, or
+        incorporated into any commercial product or service, in whole or
+        in part, without the express written consent of the copyright holder.
+
+     b) MALICIOUS USE — The Software may not be used to conduct unauthorised
+        access, disruption, surveillance, or any other activity that violates
+        applicable law, including but not limited to the Computer Misuse Act
+        1990 (UK), the Computer Fraud and Abuse Act (US), and equivalent
+        legislation in other jurisdictions.
+
+     c) REDISTRIBUTION FOR PROFIT — The Software may not be redistributed,
+        packaged, or resold for financial gain without the express written
+        consent of the copyright holder.
+
+     d) HARMFUL DERIVATIVE WORKS — Modified versions of the Software may not
+        be distributed if they are designed or intended to facilitate
+        unauthorised access or malicious activity.
+
+4. LIABILITY AND WARRANTY DISCLAIMER
+
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+   IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY — WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE — ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR, OR OTHER DEALINGS IN THE SOFTWARE.
+
+   THE AUTHOR ACCEPTS NO RESPONSIBILITY FOR ANY ILLEGAL, UNETHICAL, OR
+   UNAUTHORISED USE OF THIS SOFTWARE BY ANY THIRD PARTY.
+
+5. ETHICAL USE DECLARATION
+
+   By using, copying, or modifying this Software, you agree and confirm that:
+
+     a) You are using the Software solely on systems you own or have received
+        explicit written authorisation to test.
+     b) You understand that unauthorised use of this Software against systems
+        you do not own or have permission to test is illegal and may result
+        in criminal prosecution.
+     c) You accept full personal responsibility for any and all actions
+        performed using this Software.
+
+6. TERMINATION
+
+   Any breach of the conditions or restrictions set out in this licence
+   automatically terminates your rights under it. Upon termination, you must
+   cease all use of the Software and destroy any copies in your possession.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For licensing enquiries, commercial use requests, or to report misuse,
+contact: [https://github.com/CowZZ7s/]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
